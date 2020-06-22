@@ -7,7 +7,7 @@
 
 ---
 
-Для выполнения домашнего задания скачайте [приложенный архив](https://github.com/netology-code/bios-homeworks/blob/master/4.3/DZ4_3.playground.zip) и следуйте инструкциям в нем.
+Для выполнения домашнего задания скачайте [приложенный архив](https://github.com/netology-code/bios-2-homeworks/blob/master/3.3/DZ3_3.playground.zip) и следуйте инструкциям в нем.
 
 Чтобы успешно выполнить это домашнее задание, необходимо усвоить следующие темы:
  * [Коллекции eng.](https://docs.swift.org/swift-book/LanguageGuide/CollectionTypes.html)
