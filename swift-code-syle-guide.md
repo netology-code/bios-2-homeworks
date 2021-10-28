@@ -34,8 +34,11 @@ print("Equal!")
 ```
 
 **1.2** Не допускайте использования строк длинной более 160 символов (Xcode->Preferences->Text Editing->Page guide at column: 160 - включение этого пункта поможет наглядно видеть, если строка будет больше)
+
 **1.3** Убедитесь, что в конце каждого файла есть новая строка. 
+
 **1.4** Убедитесь, что нигде нет конечных пробелов (Xcode->Preferences->Text Editing->Automatically trim trailing whitespace + Including whitespace-only lines).
+
 **1.5** Не ставьте открывающиеся скобки на новую строку [1TBS style](https://en.m.wikipedia.org/wiki/Indentation_style#1TBS).
 
 ```swift
