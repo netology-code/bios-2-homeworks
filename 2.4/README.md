@@ -19,7 +19,7 @@
 let vkData = "19067"
 let fbData = "13400"
 let instData = "_10045"
-let youTobeData = "10$0d00"
+let youTubeData = "10$0d00"
 let webSiteData = "I0I12"
 ```
   
