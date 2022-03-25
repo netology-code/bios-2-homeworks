@@ -191,7 +191,7 @@ someFunctionWithABunchOfArguments(
     someClosure: { parameter1 in
         print(parameter1)
     }
-    )
+)
 
 // ПЛОХО
 someArrayArgument: 
