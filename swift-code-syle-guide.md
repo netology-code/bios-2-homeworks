@@ -468,7 +468,7 @@ imageView.setImageWithURL(url, type: .person)
 imageView.setImageWithURL(url, type: AsyncImageView.Type.person)
 ```
 
-**3.1.9** Не используйте сокращения для методов классов.
+**3.1.9** Используйте сокращения для методов классов.
 
 ```swift
 // ПРЕДПОЧТИТЕЛЬНО
