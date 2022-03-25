@@ -149,7 +149,8 @@ let myValue=20+(30/2)*3
 func myFunctionWithManyParameters(
         parameterOne: String,
         parameterTwo: String,
-        arameterThree: String) {
+        parameterThree: String
+) {
     // Отступы для такой инструкции
     print("\(parameterOne) \(parameterTwo) \(parameterThree)")
 }
@@ -189,7 +190,8 @@ someFunctionWithABunchOfArguments(
     ],
     someClosure: { parameter1 in
         print(parameter1)
-    })
+    }
+    )
 
 // ПЛОХО
 someArrayArgument: 
