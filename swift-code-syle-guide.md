@@ -146,9 +146,10 @@ let myValue=20+(30/2)*3
 
 ```swift
 // Отступ Xcode при объявлении функции, которая занимает несколько строк. 
-func myFunctionWithManyParameters(parameterOne: String,
-                                  parameterTwo: String,
-                                  parameterThree: String) {
+func myFunctionWithManyParameters(
+        parameterOne: String,
+        parameterTwo: String,
+        arameterThree: String) {
     // Отступы для такой инструкции
     print("\(parameterOne) \(parameterTwo) \(parameterThree)")
 }
@@ -168,7 +169,8 @@ if myFirstValue > (mySecondValue + myThirdValue)
 someFunctionWithManyArguments(
     firstArgument: "Hello, I am a string",
     secondArgument: resultFromSomeFunction(),
-    thirdArgument: someOtherLocalProperty)
+    thirdArgument: someOtherLocalProperty
+)
 ```
 
 **1.11** При работе с неявным массивом или словарем, достаточно большим, чтобы можно было разбить его на несколько строк, обрабатывайте `[` и `]` как если бы они были фигурными скобками в методе, операторе `if` и т.д. Замыкания в методе должны обрабатываться схожим образом.
