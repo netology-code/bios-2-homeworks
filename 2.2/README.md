@@ -97,7 +97,8 @@ switch selectedMonth {
 https://swiftbook.ru/content/languageguide/enumerations/  
 https://docs.swift.org/swift-book/LanguageGuide/Enumerations.html  
 https://swiftbook.ru/content/languageguide/properties/  
-https://docs.swift.org/swift-book/LanguageGuide/Properties.html  
+https://docs.swift.org/swift-book/LanguageGuide/Properties.html
+https://metanit.com/swift/tutorial/3.8.php
   
 2. После изучения дополнительного материала создайте перечисление, содержащее 12 кейсов с именами месяцев.  
 3. Создайте в теле перечисления вычисляемое свойство description, в котором будет происходить преобразование кейсов в String значения.  
